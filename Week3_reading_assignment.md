@@ -1,4 +1,4 @@
-Without open data, we cannot have a clear understanding of necessary information like the region's population distribution, what are people's needs, and how should humanitarian organizations step in to distribute resources in times of need. In other words, groups that don’t have open data are essentially vulnerable. 
+Without open data, we will never have a clear understanding of certain problems like a egion's population distribution, what are people's needs, and how should humanitarian organizations step in to distribute resources in times of need. In other words, groups that don’t have open data are essentially vulnerable. 
 
 Unfortunately, commercial companies will never tend to resolve this issue because as for-profit companies whose business models typically rely on advertising and data sales, it is a natural choice to leave out the poorest communities who don’t have the purchasing power. 
 
